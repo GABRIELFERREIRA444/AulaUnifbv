@@ -1,0 +1,3 @@
+print("Nome: Giovana")
+print("Idade: 60 anos")
+print("Curso: Python Básico")
