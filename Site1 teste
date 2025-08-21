@@ -1,0 +1,9 @@
+<?php
+#echo"Gabriel";
+$nome = "Gabriel";
+$dia = 21;
+$altura = 1.80;
+$ativo = true;
+$lista = ["php", "mysql", "html"];
+echo "$nome está no dia $dia na aula de {$lista[0]}.";
+?>
